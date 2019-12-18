@@ -5,7 +5,7 @@ Dotnet terminal commands to run locally
 2. dotnet build
 3. dotnet run
 
-Local API url: </br> https://localhost:5001/api/GameStatus
+Local API url: </br> https://localhost:5001/api/GameStatus </br>
 Deployed url : </br> http://battleshipapi-prod.ap-southeast-2.elasticbeanstalk.com/api/GameStatus/
 
 Tech used</br> </br>
