@@ -10,10 +10,7 @@ Local url: </br> https://localhost:5001/api/GameStatus
 Tech used</br> </br>
  1..net core 2.2 WebAPI </br>
  2. Xunit </br>
- 
- 
- Infrastructure  </br>
-  1. AWS Cloud - elasticbeanstalk.
+ 3. AWS Cloud - elasticbeanstalk.
  
 Project features: </br>
 1.Automated testing </br>
