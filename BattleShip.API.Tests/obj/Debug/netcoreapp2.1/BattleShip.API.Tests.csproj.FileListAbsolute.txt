@@ -1,0 +1,4 @@
+C:\OFX\BattleShipApp\BattleShip.API.Tests\obj\Debug\netcoreapp2.1\BattleShip.API.Tests.csprojAssemblyReference.cache
+C:\OFX\BattleShipApp\BattleShip.API.Tests\obj\Debug\netcoreapp2.1\BattleShip.API.Tests.csproj.CoreCompileInputs.cache
+C:\OFX\BattleShipApp\BattleShip.API.Tests\obj\Debug\netcoreapp2.1\BattleShip.API.Tests.AssemblyInfoInputs.cache
+C:\OFX\BattleShipApp\BattleShip.API.Tests\obj\Debug\netcoreapp2.1\BattleShip.API.Tests.AssemblyInfo.cs

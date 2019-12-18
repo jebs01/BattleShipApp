@@ -1,0 +1,17 @@
+C:\OFX\BattleShipApp\BattleShip.API.Tests\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\OFX\BattleShipApp\BattleShip.API.Tests\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\OFX\BattleShipApp\BattleShip.API.Tests\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\OFX\BattleShipApp\BattleShip.API.Tests\bin\Debug\netcoreapp2.2\BattleShip.API.Tests.deps.json
+C:\OFX\BattleShipApp\BattleShip.API.Tests\bin\Debug\netcoreapp2.2\BattleShip.API.Tests.runtimeconfig.json
+C:\OFX\BattleShipApp\BattleShip.API.Tests\bin\Debug\netcoreapp2.2\BattleShip.API.Tests.runtimeconfig.dev.json
+C:\OFX\BattleShipApp\BattleShip.API.Tests\bin\Debug\netcoreapp2.2\BattleShip.API.Tests.dll
+C:\OFX\BattleShipApp\BattleShip.API.Tests\bin\Debug\netcoreapp2.2\BattleShip.API.Tests.pdb
+C:\OFX\BattleShipApp\BattleShip.API.Tests\bin\Debug\netcoreapp2.2\BattleShip.API.dll
+C:\OFX\BattleShipApp\BattleShip.API.Tests\bin\Debug\netcoreapp2.2\BattleShip.API.pdb
+C:\OFX\BattleShipApp\BattleShip.API.Tests\obj\Debug\netcoreapp2.2\BattleShip.API.Tests.csprojAssemblyReference.cache
+C:\OFX\BattleShipApp\BattleShip.API.Tests\obj\Debug\netcoreapp2.2\BattleShip.API.Tests.csproj.CoreCompileInputs.cache
+C:\OFX\BattleShipApp\BattleShip.API.Tests\obj\Debug\netcoreapp2.2\BattleShip.API.Tests.AssemblyInfoInputs.cache
+C:\OFX\BattleShipApp\BattleShip.API.Tests\obj\Debug\netcoreapp2.2\BattleShip.API.Tests.AssemblyInfo.cs
+C:\OFX\BattleShipApp\BattleShip.API.Tests\obj\Debug\netcoreapp2.2\BattleShip.API.Tests.csproj.CopyComplete
+C:\OFX\BattleShipApp\BattleShip.API.Tests\obj\Debug\netcoreapp2.2\BattleShip.API.Tests.dll
+C:\OFX\BattleShipApp\BattleShip.API.Tests\obj\Debug\netcoreapp2.2\BattleShip.API.Tests.pdb
